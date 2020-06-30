@@ -1,4 +1,4 @@
-# Citi Bike Analytics Tableau Presentation
+# Citi  Analytics Tableau Presentation
 
 Full Tableau Visualizations here:
 https://public.tableau.com/profile/nathaniel.al.najjar#!/vizhome/CitiBikeAnalytics_15880130792980/Gender
