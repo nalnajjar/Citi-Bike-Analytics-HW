@@ -2,6 +2,8 @@
 
 https://public.tableau.com/profile/nathaniel.al.najjar#!/vizhome/CitiBikeAnalytics_15880130792980/Gender
 
+![Tableau](Images/tableau.png)
+
 ## Story 1: Gender Demographics & Ridership
 
 As we are all aware, the Citi Bike program has seen substantial demographic disparities in ridership since its debut in 2013. Unfortunately, after spending some time with the data for the first three months of 2020, I can report that female riders are still substantially under-represented.
