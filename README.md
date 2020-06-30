@@ -23,15 +23,7 @@ Over the past decade, the MTA has gained notoriety for delays, overcrowding, and
 
 On January 13th, 2020, a water main breakage flooded portions of the Upper West Side in Manhattan, causing major delays on the 1, 2, & 3 trains, which travel together on a shared set of tracks in this portion of the system. In total, 6 stations were closed between 5am and 4pm. I decided to study how this event influenced Citi Bike ridership rates, and gain perspective on whether New Yorkers will switch to Citi Bike when the subway is in distress. Here is a chart with the 6 closed MTA stations and their 2-3 nearest Citi Bike stations (totaling 15):
 
-
-Affected MTA Station	Nearby Citi Bike Station 1	Nearby Citi Bike Station 2	Nearby Citi Bike Station 3
-50th	                Broadway & W 49th	        Broadway & W 51st	
-59th - Columbus Circle	Broadway & W 60th	        7th Ave & Central Park S	Broadway & W 56th 
-66th - Lincoln Center	W 63 & Broadway	            W 67 & Broadway	            Amsterdam & W 66th
-72nd	                W 70 & Amsterdam	        Amsterdam & W 73rd	
-79th 	                Amsterdam & W 79th 	        West End Ave & W 78th	
-86th	                W 84th & Broadway	        W 87th & Amsterdam	        W 87th & West End Ave
-
+![Stations](Images/stations.png)
 
 In the first dashboard, you will see two charts. The first is a summation of total rides started at the 15 stations on every Monday in January 2020,to compare equivalent commuting days (January 20th was a holiday, Martin Luther King Jr. Day, explaining the significant dip in ridership). The second chart gives a breakdown of rides by station, ranked in descending order by popularity on January 13th. 
 
